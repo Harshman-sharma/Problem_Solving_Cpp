@@ -1,4 +1,6 @@
 /*
+HACKERRANK
+
 Input Format
 
 The first line contains two space-separated integers denoting the respective values of  (the number of variable-length arrays) and  (the number of queries).
